@@ -108,5 +108,5 @@ git clone <github url> && cd forge
 
 ## License
 
-***forge*** is licensed under <!-- license name --> the license.  
-See the [LICENSE]() file for more information.
+***forge*** is licensed under the AGPL-3.0 license.  
+See the [LICENSE](/LICENSE) file for more information.
