@@ -65,10 +65,8 @@ In order to run ***forge***, the following softwares/frameworks are required:
 
 ### Installation
 
-<!-- how to clone and install Forge. -->
-
 ```
-git clone <github url> && cd forge
+git clone https://github.com/Phantom-Whisper/forge && cd forge
 ```
 
 <!-- Add installation commands here. -->
