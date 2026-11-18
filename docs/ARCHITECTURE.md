@@ -2,7 +2,7 @@ Architecture
 ===
 
 > [!NOTE]
-This markdown file serves as an overview of forge architecture.  
+This Markdown file serves as an overview of forge architecture.  
 It documents the main components of the system and the relationships between them.  
 It is intended to provide a quick understanding of how the different parts of forge interact without describing implementation details
 
@@ -45,3 +45,6 @@ Here is an overview of the tables used in the database
 
 
 ## Project Architecture
+
+
+[README](../README.md)

@@ -1,5 +1,8 @@
 Forge
-=====
+
+> [!INFO]
+> Pulse is currently under early active development.
+> Features and integrations are being progressively implemented.
 
 ## Introduction
 
@@ -8,17 +11,6 @@ Forge
 It allows developers to connect their Git repositories and deploy their applications on their own infrastructure.  
 It aims to provide a simple and automated deployment experience while giving users full control over their applications, infrastructure and data.
 
-
-## Tech Stack
-
-<!-- language/framework used with version -->
-- **backend**
-- **frontend**
-- **database**
-- **containerization**
-- **CI/CD**
-- **API REST**
-- **Infrastructure** 
 
 ## General Information
 
@@ -53,11 +45,30 @@ The deployment flow is:
 
 GitHub → Forge API → Job Queue → Worker → Docker Container → Reverse Proxy → Application
 
+
+## Scope
+
+
+
+
+## Features
+
+
+
+
+## Tech Stack
+
+<!-- language/framework used with version -->
+### backend
+### frontend
+### database
+
+
 ## Get Started
 
 ### Prerequisites
 
-In order to run ***forge***, the following softwares/frameworks are required:
+In order to run ***forge***, the following software/frameworks are required:
 
 <!-- frameworks & versions -->
 <!-- - Other dependencies -->
@@ -108,3 +119,11 @@ git clone https://github.com/Phantom-Whisper/forge && cd forge
 
 ***forge*** is licensed under the AGPL-3.0 license.  
 See the [LICENSE](/LICENSE) file for more information.
+
+
+## Documentation
+For more complete information or documentation see the followings:
+- [Architecture](docs/ARCHITECTURE.md)
+- [Contributing](CONTRIBUTING.md)
+- [Tests Architecture](docs/TEST_ARCHITECTURE.md)
+- [Security](SECURITY.md)
